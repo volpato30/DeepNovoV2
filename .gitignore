@@ -1,0 +1,10 @@
+.project
+.pydevproject
+ABRF_DDA/*
+*.log
+__pycache__/*
+build/*
+*.c
+*.so
+train/*
+*.npy
