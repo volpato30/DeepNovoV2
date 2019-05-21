@@ -2,7 +2,7 @@
 
 The DeepNovoV1 branch contains a pytorch re-implementation of [DeepNovo](https://github.com/nh2tran/DeepNovo)
 
-The DeepNovoV2 branch contains the implementation of our proposed DeepNovoV2 model.
+The DeepNovoV2 branch contains the implementation of our proposed [DeepNovoV2](https://arxiv.org/abs/1904.08514) model.
 
 ## Dependency
 python >= 3.6
